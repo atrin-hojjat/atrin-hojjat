@@ -1,5 +1,4 @@
-### Hi there 👋
-<script src="https://unpkg.com/@codersrank/activity@x.x.x/codersrank-activity.min.js"></script>
+
 
 <!--
 **atrin-hojjat/atrin-hojjat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
